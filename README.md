@@ -1,5 +1,7 @@
 # a2k-quotes
 
+> Curated Quotes by A2K :ghost:
+
 ## License
 
 [MIT](LICENSE.md) © [Akshay Kadam](https://github.com/deadcoder0904)
