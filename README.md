@@ -1,6 +1,6 @@
 # a2k-quotes
 
-> Curated Quotes by A2K :ghost:
+> Awesome Curated Quotes by A2K :ghost:
 
 ## License
 
