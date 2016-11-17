@@ -4,7 +4,7 @@
 
 # Screenshots
 
-![Quotes](http://imgur.com/a/cpe9z.png)
+![Quotes](http://imgur.com/ai1A1r5.png)
 
 ## License
 
