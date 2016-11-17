@@ -2,6 +2,10 @@
 
 > Awesome Curated Quotes by A2K :ghost:
 
+# Screenshots
+
+![Quotes](http://imgur.com/a/cpe9z.png)
+
 ## License
 
 [MIT](LICENSE.md) © [Akshay Kadam](https://github.com/deadcoder0904)
