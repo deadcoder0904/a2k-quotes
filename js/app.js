@@ -11,7 +11,6 @@ $(document).ready(function() {
 			  arr.push("</blockquote>");
 				arr.push("</div>");
 		}
-		console.log(arr);
 		quotes.append(arr.join(""));
 	});
 
